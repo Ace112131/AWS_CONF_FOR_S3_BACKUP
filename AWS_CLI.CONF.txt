@@ -1,0 +1,6 @@
+1.install awscli
+2.configure cli
+3.configure s3cmd
+4.make backup script including removing 7 days old backup find mtime command
+4.save and try to check by bash
+5.if everything ok .. Schedule on cron for routine backup
